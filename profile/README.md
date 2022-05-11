@@ -1,9 +1,11 @@
 # Valorant API - Support MFA
 
 <div align="center">
+  
   [![LICENSE](https://badgen.net/badge/license/MIT/blue)](https://github.com/valapi/.github/blob/main/LICENSE)
   [![Github](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/KTNG-3/valorant-api)
   [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/pbyWbUYjyt)
+  
 </div>
 
 ## Documentation
