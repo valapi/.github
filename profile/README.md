@@ -8,6 +8,8 @@
 
 Documentation Website: [**Click Here**](https://valapi.github.io/docs/)
 
+-----------
+
 - *Report Bug*
   - [Discord](https://discord.gg/pbyWbUYjyt)
     - INg3_#9509
