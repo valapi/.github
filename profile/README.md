@@ -2,7 +2,7 @@
   
 # Valorant API - Support MFA
   
-[![Profile](https://github.com/valapi/.github/blob/main/256_valapi.png?raw=true)](https://github.com/valapi)
+[![Profile](https://github.com/valapi/.github/blob/main/128_valapi.png?raw=true)](https://github.com/valapi)
   
 [![LICENSE](https://badgen.net/badge/license/MIT/blue)](https://github.com/valapi/.github/blob/main/LICENSE)
 [![Github](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/valapi)
