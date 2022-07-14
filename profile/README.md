@@ -20,4 +20,4 @@ NodeJS package that make more easier to use Valorant API
 
 ## Guide
 
-Full Guide: **[Click Here](https://valapi.github.io/docs/PACKAGE/auth/Intro.html#contents)**
+Full Guide: **[Click Here](https://valapi.github.io/docs/)**
