@@ -2,7 +2,7 @@
 name: Feature request
 about: I need something new.
 title: "[Request] Name"
-labels: enhancement, question
+labels: enhancement
 assignees: KTNG-3
 
 ---
