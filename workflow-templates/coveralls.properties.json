@@ -1,6 +1,6 @@
 {
-    "name": "Coveralls GitHub Action",
-    "description": "Repository Test By Coveralls",
+    "name": "@valapi/coveralls",
+    "description": "Valorant.ts Project Test By Coveralls",
     "categories": [
         "TypeScript"
     ]
