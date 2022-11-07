@@ -1,10 +1,6 @@
-on:
-  push:
-    branches: [ $default-branch ]
-  pull_request:
-    branches: [ $default-branch ]
+on: ["push", "pull_request"]
 
-name: Test Coveralls Parallel
+name: Coveralls GitHub Action
 
 jobs:
   test:
