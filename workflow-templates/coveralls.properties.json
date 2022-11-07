@@ -1,0 +1,7 @@
+{
+    "name": "Coveralls GitHub Action",
+    "description": "Repository Test By Coveralls",
+    "categories": [
+        "TypeScript"
+    ]
+}
